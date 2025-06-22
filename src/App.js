@@ -3,10 +3,10 @@ import "./App.css";
 
 function App() {
   return (
-    
+
     <div className="App">
       <header>
-        <h1>Josh Tome</h1>
+        <h1>Joshua Fukutome</h1>
         <nav>
           <a href="#about">About</a>
           <a href="#projects">Projects</a>
@@ -33,8 +33,8 @@ function App() {
 
       <section id="contact">
         <h2>Contact</h2>
-        <p>Email: your-email@example.com</p>
-        <p>GitHub: <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">github.com/yourusername</a></p>
+        <p>Email: joshuafukutome@gmail.com</p>
+        <p>GitHub: <a href="https://github.com/JFtome" target="_blank" rel="noreferrer">github.com/yourusername</a></p>
       </section>
 
       <footer>
